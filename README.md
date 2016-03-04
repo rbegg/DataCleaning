@@ -9,8 +9,8 @@ output: html_document
 * CodeBook.md   - Run book to explain data and processing steps
 * run_analysis.R        - Script to process raw data (see list below) and generate the output files
 * Ouput Files
-    + tidy.csv              - first output file
-    + tidy_avg.csv          - second output file
+    + tidy.csv              - Merged tidy output file
+    + tidy_avg.csv          - Avergages from Merged data output file
 
 ## Data Files
 * getdata-projectfiles-UCI HAR Dataset
